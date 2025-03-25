@@ -2,8 +2,7 @@
 title: "java variables"
 date: "2025-03-20"
 category: "Java"
-tags:
-  tags: ["Java", "Varialbe"]
+tags: ["Java", "Varialbe"]
 ---
 
 # _Variable_
