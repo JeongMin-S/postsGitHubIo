@@ -3,8 +3,7 @@ title: "java variables"
 date: "2025-03-20"
 category: "Java"
 tags:
-  - 변수
-  - 기초
+  tags: ["Java", "Varialbe"]
 ---
 
 # _Variable_
@@ -29,9 +28,9 @@ int age = 24;
 
 ### - 지역 변수
 
-        메서드나 블록 내부에서 선언하는 변수.
-        메서드가 호출될 때 생성되며 종료되면 사라진다.
-        초기화 후에 사용해야 한다.
+메서드나 블록 내부에서 선언하는 변수.
+메서드가 호출될 때 생성되며 종료되면 사라진다.
+초기화 후에 사용해야 한다.
 
 ```java
 public class LocalVariableExample {
